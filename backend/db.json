@@ -1,21 +1,6 @@
 {
   "users": [
     {
-      "name": "sadsdaasdsadasdsadsa",
-      "email": "sadsdasdas",
-      "id": 3
-    },
-    {
-      "name": "asdasdsa",
-      "email": "sadasdsadsad",
-      "id": 4
-    },
-    {
-      "name": "asdsadsad",
-      "email": "sadasdasdsa",
-      "id": 5
-    },
-    {
       "name": "sadasdasd",
       "email": "asdasdasdas",
       "id": 6
@@ -24,6 +9,11 @@
       "name": "sadsdasdasd",
       "email": "sadasdasdasd",
       "id": 7
+    },
+    {
+      "name": "samuel ",
+      "email": "samuel@douobumbum.com",
+      "id": 8
     }
   ]
 }
